@@ -1,4 +1,4 @@
-setwd("~/Tocopherols/GitHub/")
+setwd("~/wd/")
 
 #prepearing a vcf for setting the alleles 
 tx  <- readLines("cross.vcf")
