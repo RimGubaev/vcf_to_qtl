@@ -1,5 +1,5 @@
 # vcf_to_qtl
-Rim Gubaev, 2019
+Rim Gubaev, 2022
 
 This is a short R script for conversion of vcf file to R/qtl format for subsequent getetic map construction. 
 
